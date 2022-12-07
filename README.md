@@ -4,7 +4,7 @@
   <img align="right" alt="GIF" width="320" src="https://64.media.tumblr.com/568d3e7a09e526859bfac355de0302aa/tumblr_mzzq9cAoAC1ql8t12o1_500.gifv" />
 
  
- I'm passionate self-learner software student and I work at human resources department Talu Tekstil. 
+ I'm passionate self-learner software student and I work at Human Resources department Talu Tekstil. 
  I'm from Sakarya/Turkey 
 
 - 🔭 I’m currently working on setup configurations for my job
