@@ -7,9 +7,9 @@
  I'm a passionate self-learner and software enthusiast currently working as an SAP ABAP Developer at Ploud.
  I'm live in Kocaeli/Turkey 
 
-- 🔭 I’m currently working on setup configurations for my job
-- 🌱 I’m currently learning SAP ABAP.
-- 📫 How to reach me: e.recep.cinar61@gmail.com
+- 🔭 I’m currently working on setup configurations for my job.
+- 🌱 I am currently learning about SAP ERP, SAP S4HANA and Webdynpro Design and Reporting.
+- 📫 You can reach me at e.recep.cinar61@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
