@@ -11,6 +11,11 @@
 - 🌱 I am currently learning about SAP ERP, SAP S4HANA and Webdynpro Design and Reporting.
 - 📫 You can reach me at e.recep.cinar61@gmail.com
 
+### 🚀 Projects:
+- **Supplier Management System**: Developed a Webdynpro-based application for managing supplier data and generating purchase order reports.
+- **Expense Management Application**: Designed and implemented a system to track and report employee expenses using SAP ABAP and ALV reporting.
+- **Material Management Reports**: Created custom reports integrating SAP ERP and S4HANA functionalities for efficient material tracking.
+
 ### Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/enesrecepcinar/" target="_blank">
