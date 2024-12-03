@@ -11,6 +11,9 @@
 - 🌱 I am currently learning about SAP ERP, SAP S4HANA and Webdynpro Design and Reporting.
 - 📫 You can reach me at e.recep.cinar61@gmail.com
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/enesrecepcinar/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="enes recep cinar" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/enesrecepcinar/" target="_blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Profile" height="30" width="30" />
+</a>
+</p>
